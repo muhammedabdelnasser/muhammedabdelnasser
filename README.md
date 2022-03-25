@@ -9,6 +9,5 @@ I am Muhammed Abdel-Nasser InfoSec Engineer
 - 🌱 I’m currently learning Cyber Security
 - 💬 Ask me about Cyber Security & Pentest 
 - 📫 How to reach me: https://about.me/M7medANasser
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love Ocean Creatures
 
